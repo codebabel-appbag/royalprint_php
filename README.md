@@ -16,7 +16,7 @@ com similaridade de impressão em C++ comando cout, PHP echo, log("Oi"), go("Ol�
 cout("whoami?"), puts("She Knows")... e mais.
 ~~~
 
-![](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square:)
+![](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![](https://img.shields.io/badge/license-MIT-blue)
 
 
@@ -32,6 +32,7 @@ cout("whoami?"), puts("She Knows")... e mais.
 ### installation
 ## 💻 Installation / Instalação:
 > `composer require codebabel/royalprint`
+> `composer require codebabel/royalprint:v0.0.1`
 
 ## ✅ Codebabel go
 ~~~php

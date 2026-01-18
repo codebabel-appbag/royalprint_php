@@ -1,5 +1,5 @@
 <?php
-# royalprint php v0.0.1
+# royalprint php v1.0.0
 namespace royalprint;
 
 function go($a){echo($a);}
