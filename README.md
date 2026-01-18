@@ -35,7 +35,7 @@ cout("whoami?"), puts("She Knows")... e mais.
 
 > `composer require codebabel/royalprint:v0.0.1`
 
-## no 7zip install
+## 📦 no 7zip install (no 7zip error)
 > `composer require codebabel/royalprint --prefer-source`
 
 ## ✅ Codebabel go
