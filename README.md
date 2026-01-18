@@ -32,7 +32,11 @@ cout("whoami?"), puts("She Knows")... e mais.
 ### installation
 ## 💻 Installation / Instalação:
 > `composer require codebabel/royalprint`
+
 > `composer require codebabel/royalprint:v0.0.1`
+
+## no 7zip install
+> `composer require codebabel/royalprint --prefer-source`
 
 ## ✅ Codebabel go
 ~~~php
